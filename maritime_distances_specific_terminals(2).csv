@@ -1,0 +1,46 @@
+port1,port2,distance_km
+Shanghai Yangshan Port,PSA Singapore,4349.95
+Shanghai Yangshan Port,Ningbo Beilun Terminal,89.24
+Shanghai Yangshan Port,Shenzhen Yantian Terminal,1370.36
+Shanghai Yangshan Port,Qingdao Port,718.61
+Shanghai Yangshan Port,Guangzhou Nansha Terminal,1383.52
+Shanghai Yangshan Port,Busan New Port,929.73
+Shanghai Yangshan Port,Tianjin Xingang Terminal,1155.64
+Shanghai Yangshan Port,Jebel Ali Terminal,7472.86
+Shanghai Yangshan Port,Port Klang West Port,4316.97
+PSA Singapore,Ningbo Beilun Terminal,4272.18
+PSA Singapore,Shenzhen Yantian Terminal,3003.89
+PSA Singapore,Qingdao Port,4867.29
+PSA Singapore,Guangzhou Nansha Terminal,3006.08
+PSA Singapore,Busan New Port,5246.25
+PSA Singapore,Tianjin Xingang Terminal,5089.51
+PSA Singapore,Jebel Ali Terminal,6723.53
+PSA Singapore,Port Klang West Port,381.78
+Ningbo Beilun Terminal,Shenzhen Yantian Terminal,1301.44
+Ningbo Beilun Terminal,Qingdao Port,804.12
+Ningbo Beilun Terminal,Guangzhou Nansha Terminal,1317.16
+Ningbo Beilun Terminal,Busan New Port,993.92
+Ningbo Beilun Terminal,Tianjin Xingang Terminal,1236.48
+Ningbo Beilun Terminal,Jebel Ali Terminal,7485.19
+Ningbo Beilun Terminal,Port Klang West Port,4243.65
+Shenzhen Yantian Terminal,Qingdao Port,1869.65
+Shenzhen Yantian Terminal,Guangzhou Nansha Terminal,60.52
+Shenzhen Yantian Terminal,Busan New Port,2295.16
+Shenzhen Yantian Terminal,Tianjin Xingang Terminal,2139.83
+Shenzhen Yantian Terminal,Jebel Ali Terminal,6842.16
+Shenzhen Yantian Terminal,Port Klang West Port,2950.83
+Qingdao Port,Guangzhou Nansha Terminal,1862.81
+Qingdao Port,Busan New Port,884.23
+Qingdao Port,Tianjin Xingang Terminal,456.62
+Qingdao Port,Jebel Ali Terminal,7183.82
+Qingdao Port,Port Klang West Port,4788.37
+Guangzhou Nansha Terminal,Busan New Port,2310.99
+Guangzhou Nansha Terminal,Tianjin Xingang Terminal,2121.8
+Guangzhou Nansha Terminal,Jebel Ali Terminal,6783.13
+Guangzhou Nansha Terminal,Port Klang West Port,2945.13
+Busan New Port,Tianjin Xingang Terminal,1234.17
+Busan New Port,Jebel Ali Terminal,8067.46
+Busan New Port,Port Klang West Port,5231.16
+Tianjin Xingang Terminal,Jebel Ali Terminal,6874.66
+Tianjin Xingang Terminal,Port Klang West Port,4977.6
+Jebel Ali Terminal,Port Klang West Port,6343.04
